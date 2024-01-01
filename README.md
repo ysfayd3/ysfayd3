@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm YUSUF AYDIN</h1>
-<h3 align="center">Jr. Back-End Developer</h3>
+<h3 align="center">Back-End Developer</h3>
 
 - 👯 I’m currently learning Java-Spring Boot
 - 🔭 I'm currently working on **Step Coin**
