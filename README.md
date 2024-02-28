@@ -2,7 +2,6 @@
 <h3 align="center">Back-End Developer</h3>
 
 - 👯 I’m currently learning Java-Spring Boot
-- 🔭 I'm currently working on **Step Coin**
 
 - 💬 Ask me about **android**
 
